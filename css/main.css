@@ -196,7 +196,7 @@ textarea {
   *,
   *::before,
   *::after {
-    background: #fff !important;
+    background: #fffdf7 !important;
     color: #000 !important;
     /* Black prints faster */
     box-shadow: none !important;
@@ -262,9 +262,9 @@ textarea {
 }
 
 body {
-  background-color: aqua;
+  background-color: #f3eacf;
 }
 
 h1 {
-  color: red;
+  color: rgb(29, 117, 206);
 }
